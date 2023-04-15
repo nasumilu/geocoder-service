@@ -1,0 +1,3 @@
+geocoder:
+    resource: '@NasumiluGeocoderBundle/config/routes.xml'
+    prefix: services

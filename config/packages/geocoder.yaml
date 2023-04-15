@@ -1,0 +1,5 @@
+nasumilu_geocoder:
+   # geocoder services - esri, us_census, here
+   geocoder: us_census
+   # reverse geocoder services - esri & here
+   reverse_geocoder: here
